@@ -1,6 +1,7 @@
 .nav a {
   color: #5a5a5a;
-  font-size: 11px;
+  font-size: 15px;
+  font-family: 'Josefin Slab', serif;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -10,58 +11,38 @@
   display: inline;
 }
 
-.jumbotron {
-  background:url('https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/44512_10100162230530536_2777252_n.jpg?oh=a4181cee5e88a99b8a81e73faa22f867&oe=5438CAE7&__gda__=1413991383_223d3c603cfa498689972fe7609ac737') no-repeat;
-  height: 500px;
+.headline {
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+}
+.headline h2 {
+    color: #393c3d;
+    font-size: 100px;
+    font-family: 'Josefin Slab', serif;
+    text-align:center;
+}
+.headline p {
+    font-size: 32px;
+    margin-bottom: 13px;
+    font-family: 'Josefin Slab', serif;
+    text-align:center;
 }
 
-/**
-.jumbotron .container {
-  position: relative;
-  top:100px;
-}
-*/
-
-.jumbo {
-	background: white;
-}
-.jumbotron h1 {
-  color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;
-}
-
-.jumbotron p {
-  font-size: 20px;
-  color: #fff;
-}
-
-.learn-more {
+.pictures {
   background-color: #f7f7f7;
 }
 
-.learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
+.pictures h3 {
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
   font-weight: bold;
-}
+  margin-top: 90px;
+  }
 
-.learn-more a {
+.pictures p {
+    font-family:'Josefin Slab', serif;
+    font-size: 16px;
+    }    
+.pictures a {
   color: #00b0ff;
 }
-.neighborhood-guides {
-    background-color: #efefef;
-    border-bottom: 1px solid #dbdbdb;
-}
-.neighborhood-guides h2 {
-    color: #393c3d;
-    font-size: 24px;
-}
-.neighborhood-guides p {
-    font-size: 15px;
-    margin-bottom: 13px;
-}
-
-
-        
