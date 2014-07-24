@@ -3,5 +3,7 @@ class UsersController < ApplicationController
 	end
 	def weddingsite
 	end
+	def who
+	end
 end
 
