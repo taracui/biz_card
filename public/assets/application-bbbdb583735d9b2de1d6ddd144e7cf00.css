@@ -1,0 +1,48 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 15px;
+  font-family: 'Josefin Slab', serif;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.headline {
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+}
+.headline h2 {
+    color: #393c3d;
+    font-size: 100px;
+    font-family: 'Josefin Slab', serif;
+    text-align:center;
+}
+.headline p {
+    font-size: 32px;
+    margin-bottom: 13px;
+    font-family: 'Josefin Slab', serif;
+    text-align:center;
+}
+
+.pictures {
+  background-color: #f7f7f7;
+}
+
+.pictures h3 {
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 90px;
+  }
+
+.pictures p {
+    font-family:'Josefin Slab', serif;
+    font-size: 16px;
+    }    
+.pictures a {
+  color: #00b0ff;
+}
