@@ -5,5 +5,7 @@ class UsersController < ApplicationController
 	end
 	def who
 	end
+	def when
+	end
 end
 

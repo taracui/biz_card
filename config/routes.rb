@@ -12,6 +12,7 @@ Rails.application.routes.draw do
    match '/about', to: 'users#about', via: 'get'
    match '/weddingsite', to: 'users#weddingsite', via: 'get'
    get '/who' => 'users#who'
+   get '/when' => 'users#when'
 
   # Example resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
