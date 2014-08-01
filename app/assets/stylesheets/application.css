@@ -27,21 +27,28 @@
     font-family: 'Josefin Slab', serif;
     text-align:center;
 }
-.pictures {
-  background-color: #f7f7f7;
+.photos {
+  background-color: #5a5a5a;
 }
 
-.pictures h3 {
+.photos h3 {
   font-family: 'Josefin Slab', serif;
   font-size: 20px;
   font-weight: bold;
-  margin-top: 90px;
-  }
+  text-align:left;
+}
 
-.pictures p {
+.photos p {
     font-family:'Josefin Slab', serif;
     font-size: 16px;
-    }    
-.pictures a {
+    text-align:left;
+}    
+
+.photos a {
   color: #00b0ff;
+}
+
+.row h3 {
+  text-align:center;
+  background:url('http://37.media.tumblr.com/e5ee7a490e23826dbe6af19453fdda3f/tumblr_mtg43lN1Ge1rhneybo1_1280.jpg');
 }
