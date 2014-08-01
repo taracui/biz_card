@@ -25,17 +25,19 @@
     font-size: 32px;
     margin-bottom: 13px;
     font-family: 'Josefin Slab', serif;
-    text-align:center;
+    text-align: center;
 }
 .photos {
   background-color: #5a5a5a;
+  margin-bottom: 13px;
+  text-align: left;
 }
 
 .photos h3 {
   font-family: 'Josefin Slab', serif;
   font-size: 20px;
-  font-weight: bold;
   text-align:left;
+  font-weight:bold;
 }
 
 .photos p {
@@ -48,7 +50,5 @@
   color: #00b0ff;
 }
 
-.row h3 {
-  text-align:center;
-  background:url('http://37.media.tumblr.com/e5ee7a490e23826dbe6af19453fdda3f/tumblr_mtg43lN1Ge1rhneybo1_1280.jpg');
+.body {margin-bottom: 13px;
 }
