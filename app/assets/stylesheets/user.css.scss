@@ -29,24 +29,30 @@
     font-size: 32px;
     margin-bottom: 13px;
     font-family: 'Josefin Slab', serif;
-    text-align:center;
+    text-align: center;
+}
+.photos {
+  background-color: #5a5a5a;
+  margin-bottom: 13px;
+  text-align: left;
 }
 
-.pictures {
-  background-color: #f7f7f7;
-}
-
-.pictures h3 {
+.photos h3 {
   font-family: 'Josefin Slab', serif;
   font-size: 20px;
-  font-weight: bold;
-  margin-top: 90px;
-  }
+  text-align:left;
+  font-weight:bold;
+}
 
-.pictures p {
+.photos p {
     font-family:'Josefin Slab', serif;
     font-size: 16px;
-    }    
-.pictures a {
+    text-align:left;
+}    
+
+.photos a {
   color: #00b0ff;
+}
+
+.body {margin-bottom: 13px;
 }
