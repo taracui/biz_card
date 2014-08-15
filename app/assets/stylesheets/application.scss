@@ -17,7 +17,7 @@
 
 @import "bootstrap";
 
-@import url("http://fonts.googleapis.com/css?family=Josefin+Slab:600");
+@import url("http://fonts.googleapis.com/css?family=Josefin+Slab:400");
 
 .nav {
   a {
@@ -38,8 +38,9 @@
   border-bottom: 1px solid #dbdbdb;
   h2 {
     color: #393c3d;
-    font-size: 100px;
+    font-size: 95px;
     font-family: 'Josefin Slab', serif;
+    font-weight: 400;
     text-align:center;
   }
   p {
