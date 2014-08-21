@@ -20,11 +20,12 @@
 @import url("http://fonts.googleapis.com/css?family=Josefin+Slab:400");
 
 .nav {
+  margin-top: 30px;
   a {
     color: #5a5a5a;
     font-size: 15px;
     font-family: 'Josefin Slab', serif;
-    font-weight: bold;
+    font-weight: 400;
     padding: 14px 10px; 
     text-transform: uppercase;
   }
