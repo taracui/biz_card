@@ -7,5 +7,9 @@ class UsersController < ApplicationController
 	end
 	def when
 	end
+	def where
+	end
+	def rsvp
+	end
 end
 
