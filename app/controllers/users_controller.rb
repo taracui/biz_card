@@ -1,7 +1,7 @@
 class UsersController < ApplicationController
 	def about
 	end
-	def weddingsite
+	def index
 	end
 	def who
 	end
