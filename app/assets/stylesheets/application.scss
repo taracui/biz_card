@@ -17,23 +17,25 @@
 
 @import "bootstrap";
 
-@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
-
 @import url("http://fonts.googleapis.com/css?family=Josefin+Slab:400");
 
 .nav {
   margin-top: 30px;
   a {
     color: #5a5a5a;
-    font-size: 15px;
+    font-size: 16px;
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
-    padding: 14px 10px; 
+    padding: 14px 14px; 
     text-transform: uppercase;
   }
   li {
     display: inline;
   }
+}
+
+.pull-left {
+  margin-left: -45px;
 }
 
 .headline {
@@ -50,24 +52,26 @@
     font-size: 32px;
     margin-bottom: 13px;
     font-family: 'Josefin Slab', serif;
+    font-weight: 400;
     text-align: center;
   }
 }
 
 .photos {
   h3 {
-    font-size: 20px;
+    font-size: 22px;
     font-family: 'Josefin Slab', serif;
     text-align: center;
-    font-weight: bold;
+    font-weight: 400;
   }
   a {
     color: #00b0ff;
   }
   p {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Josefin Slab', serif;
     text-align: center;
+    font-weight: 400;
   }
 }
 
@@ -75,5 +79,28 @@
   margin-bottom: 13px;
 }
 
+iframe.displayed {
+  display: block;
+  margin-left: auto;
+  margin-top: 13px;
+}
 
+.venue {
+  margin-left: 40px;
+  h1{
+    font-size: 24px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+  }
+  h2{
+    font-size: 22px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: 400;
+  }
+  p{
+    font-size: 18px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: 400;
+  }
+}
 
