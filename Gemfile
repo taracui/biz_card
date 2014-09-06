@@ -38,7 +38,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'bootstrap-sass', '~> 3.2.0'
 
-group :production do 
+group :production, :staging do 
 	gem 'rails_12factor'
 
 end
