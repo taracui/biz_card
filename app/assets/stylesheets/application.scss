@@ -43,16 +43,15 @@
   border-bottom: 1px solid #dbdbdb;
   h2 {
     color: #393c3d;
-    font-size: 95px;
+    font-size: 90px;
     font-family: 'Josefin Slab', serif;
-    font-weight: 400;
     text-align:center;
+    font-weight: light;
   }
   p {
     font-size: 32px;
     margin-bottom: 13px;
     font-family: 'Josefin Slab', serif;
-    font-weight: 400;
     text-align: center;
   }
 }
@@ -85,22 +84,16 @@ iframe.displayed {
   margin-top: 13px;
 }
 
-.venue {
-  margin-left: 40px;
-  h1{
-    font-size: 24px;
-    font-family: 'Josefin Slab', serif;
-    font-weight: bold;
-  }
-  h2{
-    font-size: 22px;
-    font-family: 'Josefin Slab', serif;
-    font-weight: 400;
-  }
+
+.message {
+
   p{
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
+    text-align: center;
+    padding-top: 130px;
+    padding-left: 100px;
   }
 }
 
