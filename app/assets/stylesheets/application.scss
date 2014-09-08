@@ -78,22 +78,38 @@
   margin-bottom: 13px;
 }
 
-iframe.displayed {
-  display: block;
-  margin-left: auto;
-  margin-top: 13px;
+.calendar {
+  padding-top: 14px;
+  padding-left: 145px;
+  padding-right: 165px;
 }
 
-
 .message {
-
+  h3{
+    font-size: 22px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 100px;
+  }
   p{
     font-size: 20px;
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
     text-align: center;
-    padding-top: 130px;
+    padding-top: 10px;
     padding-left: 100px;
   }
 }
+
+.date {
+  h1{
+    font-size: 22px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    text-align: center;
+  }
+}
+
 
