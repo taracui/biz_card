@@ -50,7 +50,7 @@
   }
   p {
     font-size: 32px;
-    margin-bottom: 13px;
+    padding-bottom: 13px;
     font-family: 'Josefin Slab', serif;
     text-align: center;
   }
@@ -75,17 +75,21 @@
 }
 
 .body {
-  margin-bottom: 13px;
+  padding-bottom: 25px;
 }
 
-.calendar {
-  padding-top: 14px;
-  padding-left: 145px;
-  padding-right: 165px;
-}
-
-.map {
+.calendarc {
   padding-top: 15px;
+  margin-bottom: 15px;
+  iframe{
+    margin-left: 140px;
+    margin-right: 90px;
+  }
+}
+
+.mapc {
+  padding-top: 15px;
+  margin-bottom: 15px;
 }
 
 .message {
@@ -95,7 +99,7 @@
     font-weight: 400;
     text-align: center;
     padding-left: 100px;
-    margin-top: 5px;
+    padding-top: 5px;
   }
   p{
     font-size: 20px;
@@ -121,4 +125,6 @@
   padding-left: 190px;
 }
 
-
+.ss-form-container {
+  border: 0px;
+}
