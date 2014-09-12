@@ -56,6 +56,10 @@
   }
 }
 
+.photosc{
+  padding-top: 15px;
+}
+
 .photos {
   h3 {
     font-size: 22px;
@@ -74,10 +78,6 @@
   }
 }
 
-.body {
-  padding-bottom: 25px;
-}
-
 .calendarc {
   padding-top: 15px;
   margin-bottom: 15px;
@@ -93,20 +93,21 @@
 }
 
 .message {
+  padding-top: 40px;
+
   h3{
     font-size: 22px;
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
     text-align: center;
     padding-left: 100px;
-    padding-top: 5px;
+    margin-top: 5px;  
   }
   p{
     font-size: 20px;
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
     text-align: center;
-    padding-top: 10px;
     padding-left: 100px;
   }
 }
