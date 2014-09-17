@@ -17,7 +17,8 @@
 
 @import "bootstrap";
 
-@import url("http://fonts.googleapis.com/css?family=Josefin+Slab:400");
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
+
 
 .nav {
   margin-top: 30px;
@@ -93,14 +94,14 @@
 }
 
 .message {
-  padding-top: 40px;
+  padding-top: 68px;
 
   h3{
     font-size: 22px;
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
     text-align: center;
-    padding-left: 100px;
+    padding-left: 15px;
     margin-top: 5px;  
   }
   p{
@@ -108,7 +109,7 @@
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
     text-align: center;
-    padding-left: 100px;
+    padding-left: 15px;
   }
 }
 
@@ -126,6 +127,4 @@
   padding-left: 190px;
 }
 
-.ss-form-container {
-  border: 0px;
-}
+
