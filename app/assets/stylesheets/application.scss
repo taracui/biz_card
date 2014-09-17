@@ -82,10 +82,6 @@
 .calendarc {
   padding-top: 15px;
   margin-bottom: 15px;
-  iframe{
-    margin-left: 140px;
-    margin-right: 90px;
-  }
 }
 
 .mapc {
@@ -94,7 +90,7 @@
 }
 
 .message {
-  padding-top: 68px;
+  margin-top: 5px;
 
   h3{
     font-size: 22px;
@@ -117,7 +113,6 @@
   h1{
     font-size: 22px;
     font-family: 'Josefin Slab', serif;
-    font-weight: bold;
     text-align: center;
   }
 }
