@@ -9,5 +9,7 @@ class UsersController < ApplicationController
 	end
 	def rsvp
 	end
+	def tips
+	end
 end
 
