@@ -130,12 +130,22 @@
   padding-top: 100px;
 }
 
-.panel-default{
+.transport{
     h3 {
       font-size: 22px;
       font-family: 'Josefin Slab', serif;
       text-align: center;
-      padding-left: 30px;
+      padding-left: 25px;
+      display: inline;
+    }
+}
+
+.weather{
+    h3 {
+      font-size: 22px;
+      font-family: 'Josefin Slab', serif;
+      text-align: center;
+      padding-left: 20px;
       padding-bottom:15px;
       display: inline;
     }
@@ -152,8 +162,12 @@
       display: inline-block;
     }
 
-.fa{
-    padding-left: 140px;
+.fa-car{
+    padding-left: 130px;
+}
+
+.fa-sun-o{
+    padding-left: 170px;
 }
 
 
