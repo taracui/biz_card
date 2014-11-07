@@ -16,6 +16,7 @@ Rails.application.routes.draw do
    match '/where', to: 'users#where', via: 'get'
    match '/rsvp', to: 'users#rsvp', via: 'get'
    match '/tips', to: 'users#tips', via: 'get'
+   match '/guest', to: 'users#guest', via: 'get'
    
    
   # Example resource route (maps HTTP verbs to controller actions automatically):

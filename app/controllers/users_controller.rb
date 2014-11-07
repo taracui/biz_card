@@ -11,5 +11,7 @@ class UsersController < ApplicationController
 	end
 	def tips
 	end
+	def guest
+	end
 end
 
