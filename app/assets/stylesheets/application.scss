@@ -23,7 +23,7 @@
 .nav {
   margin-top: 30px;
   a {
-    color: #5a5a5a;
+    color: #383838;
     font-size: 16px;
     font-family: 'Josefin Slab', serif;
     font-weight: 400;
@@ -42,22 +42,24 @@
 .headline {
   background-color: white;
   border-bottom: 1px solid #dbdbdb;
-  h2 {
-    color: #393c3d;
-    font-size: 90px;
+  h3 {
+    color: #383838;
+    font-size: 75px;
     font-family: 'Josefin Slab', serif;
     text-align:center;
-    font-weight: light;
+    font-weight: lighter;
   }
-  h3 {
+  h4 {
+    color: #383838;
     font-size: 32px;
-    padding-bottom: 13px;
+    padding-bottom: 10px;
     font-family: 'Josefin Slab', serif;
     text-align: center;
   }
 
   p {
-    font-size: 22px;
+    color: #383838;
+    font-size: 18px;
     font-family: 'Josefin Slab', serif;
     text-align: center;
   }
@@ -93,6 +95,10 @@
 .well-when{
   font-size: 18px;
   font-family: 'Josefin Slab', serif;
+
+  li{
+    text-align: left;
+  }
 }
 
 .mapc {
@@ -137,12 +143,18 @@
   }
 }
 
+.rsvpc {
+  padding-top: 10px;
+  padding-left: 200px;
+}
+
 .well-rsvp{
   font-size: 18px;
   font-family: 'Josefin Slab', serif;
-  padding-top: 10px;
+  text-align: center;
   overflow: hidden;
-}
+  }
+
 
 .tipsc{
   padding-top: 100px;
